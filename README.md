@@ -10,3 +10,12 @@ Maven dependency
     <artifactId>telegrambots</artifactId>
     <version>2.4.4.5</version>
 </dependency>
+<dependency>
+    <groupId>org.telegram</groupId>
+    <artifactId>telegrambots-meta</artifactId>
+    <version>2.4.4</version>
+</dependency>
+
+Need to read -
+https://core.telegram.org/bots/api
+
